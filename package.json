@@ -1,6 +1,6 @@
 {
   "name": "@minenode/wasm-java-random",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "java.util.Random implemented in WebAssembly",
   "main": "index.js",
   "types": "index.d.ts",
